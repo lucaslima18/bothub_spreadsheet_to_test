@@ -1,0 +1,13 @@
+text,intent,acuracy
+Parcela AD,search,87.1%
+4490,bias,98.3%
+02321349280,bias,98.3%
+Posição financeira,financial_position,96.5%
+02321349280,bias,98.3%
+Consultar parcelas,search,96.7%
+Consultar parcelas,search,96.7%
+Olá gostaria de saber sobre as casas,greeting,68.8%
+caminopublicacoes@gmail.com,bias,97.8%
+91-98891-3824,bias,97.6%
+Cópia do contrato,financial_position,44.9%
+Bom dia,greeting,95.5%
