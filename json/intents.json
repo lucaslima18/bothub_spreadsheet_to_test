@@ -1,0 +1,24 @@
+{
+    "intents_list": [
+        "carency",
+        "cancel",
+        "hire",
+        "coverage",
+        "negotiation",
+        "planstatus",
+        "redue",
+        "review",
+        "phone",
+        "app",
+        "virtualcard",
+        "schedule",
+        "accreditation",
+        "network",
+        "not_covered",
+        "bias",
+        "invoice",
+        "farewell",
+        "portal",
+        "urgency"
+    ]
+}
