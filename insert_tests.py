@@ -9,13 +9,14 @@ def test():
     mensagens = csv.DictReader(categorized)
     right_sentences.write("text,intent,\n")
     wrong_sentences.write("text,intent,\n")
+    count = 1
 
     for mensagem in mensagens:
         text = mensagem['text']
         intent = mensagem['intent']
 
         try:
-            test_question = input(f"A frase \"{text}\" faz parte da intenção \"{intent}\"?\n")
+            test_question = input(f"{count}- A frase \"{text}\" faz parte da intenção \"{intent}\"?\n")
             
             if(test_question == 'sim'):
                 create_test(text, intent)
@@ -26,4 +27,6 @@ def test():
                 wrong_sentences.write(f"{text},{intent},%\n")
         except:
             print(f'caiu em exeção')
+        
+        count += 1
 

@@ -22,7 +22,7 @@ def categorize():
             time.sleep(1)
 
             url = 'https://nlp.bothub.it/parse/'
-            texto = mensagem["Text"]
+            texto = mensagem["text"]
             data = {
                 'language': 'pt_br',
                 'text': texto

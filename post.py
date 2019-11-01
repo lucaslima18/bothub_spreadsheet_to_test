@@ -1,9 +1,5 @@
 import json, requests
-
-
-REPOSITORY_UUID = '82b6aca7-2c78-45ce-aa0f-0828e2a9def5'
-LANGUAGE = 'pt_br'
-AUTH_TOKEN = 'Token 5ef90351e1b8bb19761e98e03773f0d20f3f94de'
+from settings import *
 
 def categorize_req(url, headers, data):
     request = requests.post(url, headers=headers, data=data)
