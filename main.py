@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import csv
 from categorize_csv import categorize
 from insert_tests import test

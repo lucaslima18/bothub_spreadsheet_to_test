@@ -1,51 +1,169 @@
 text,intent,acuracy
-Parcela AD,search,87.1%
-4490,bias,98.3%
-2321349280,bias,98.3%
-Posição financeira,financial_position,96.5%
-2321349280,bias,98.3%
-Consultar parcelas,search,96.7%
-Consultar parcelas,search,96.7%
-Olá gostaria de saber sobre as casas,greeting,68.8%
-caminopublicacoes@gmail.com,bias,97.8%
-91-98891-3824,bias,97.6%
-Cópia do contrato,financial_position,44.9%
+Consigo algum tipo de financiamento com nome restrito?,bias,76.2%
+Tenho um imóvel minha casa minha vida no meu nome mas é da minha irmã É ela que paga. Preciso tirar do meu nome mas não sei como ainda.,bias,51.1%
+Sim,None,0.0%
+deu operação concluida,bias,95.0%
+queria saber se ainda tem lotes disponíveis,bias,64.2%
+1,bias,98.3%
+Consigo pegar as chaves normal..?,bias,68.0%
+Será que eles estao ciente de tudo ?vc cobra eles pessoalmente ou por email?,bias,68.5%
+ok,None,0.0%
+tudo certo,bias,97.8%
+Eu ainda cnsigo pegar a chave hj msmoo,greeting,72.7%
+Já faz tempo que era pra ser descontado mais até agora n descontaram nada,bias,52.1%
+Pra fazer o pgto,negotiation,64.4%
+Meus boletos atrasados,bias,92.5%
+Ok,None,0.0%
+?,None,0.0%
+Esperar,None,0.0%
+Obrigado,bad_words,63.4%
+ta ok,bad_words,63.1%
+Boa tarde ! Kelly você poderia me tirar uma dúvida sobre a entrega das casas do porto sabia amanhã?,greeting,36.7%
+Estou com 2 juros de obras atrasados porém esta dentro do meu limita na conta da caixa... Consigo retirar as chaves normalmente amanhã?,estate_broker,67.8%
+Queria informações !! Não recebo notícia nenhuma  apenas pago as parcelas,financial_position,56.7%
+Só que o valor correto seria mais de 300.00 pq será feito um aditivo no contrato,estate_broker,61.0%
+Sim,None,0.0%
+para saber da assinatura junto a caixa com anda a proposta,bias,79.8%
+Sim,None,0.0%
+Consigo pegar as chaves normal..?,bias,68.0%
+Será que eles estao ciente de tudo ?vc cobra eles pessoalmente ou por email?,bias,68.5%
+Tudo certo,bias,97.8%
+Eu ainda cnsigo pegar a chave hj msmoo,greeting,72.7%
+Já faz tempo que era pra ser descontado mais até agora n descontaram nada,bias,52.1%
+Pra fazer o pgto,negotiation,64.4%
+Meus boletos atrasados,bias,92.5%
+?,None,0.0%
+Incluir mensagem de expiração da Susana,bias,75.5%
+Esperar,None,0.0%
+ta ok,bad_words,63.1%
+Desculpem,None,0.0%
+Rosinei,None,0.0%
+Não né,bias,97.5%
+Queria saber quantos tá meu débito com a construtora?,bias,85.5%
+Preciso que alguém vem resolver o problema do interfone que está mudo,commercial,53.8%
+Tem como agenda pra eles vim aqui no condomínio bosques do ipês,greeting,91.9%
+Esse foi o último boleto,bias,74.2%
+Com quem eu falo?,bias,98.3%
+Ótimo Susana!,bad_words,65.0%
+Quando recebemos?,bad_words,62.9%
+Tenho uma parcela em aberto do mês 10,search,69.9%
+Eu não sou essa pessoa que vocês tão cobrando,bias,89.7%
+Mandei os comprovantes de pagamento,bias,85.0%
+Vou enviar meus áudios,conversation_exit,73.5%
 Bom dia,greeting,95.5%
-contato 993730633 ou 988174974,bias,72.5%
-Trabalho com venda de compensado Ser vc pode me ajuda divulgado eu agradeço,compliment,62.0%
-Olá bom dia,greeting,91.2%
-12742097651,bias,98.3%
-Segunda via,reissue,96.6%
-Não,bias,97.5%
-7235,bias,98.3%
-12742097651,bias,98.3%
-Consultar parcelas,search,96.7%
-Não,bias,97.5%
-11/2019,bias,98.2%
-11/2019,bias,98.2%
-08/2019,bias,98.2%
-10/2019,bias,98.2%
-09/2019,bias,98.2%
-8877,bias,98.3%
-527331228,bias,98.3%
-Segunda via,reissue,96.6%
-Boleto s,reissue,69.1%
-ocianneoliveira@gmail.com,bias,97.8%
-92 994100114,bias,98.2%
-Gostaria de saber sobre a entrega das casas no vila smart campo Belo,bias,67.3%
-Vocês deram uma previsão para outubro. Já estamos praticamente no fim do mês e ninguém entra em contato.,contact,71.5%
-Gostaria de saber sobre a entrega das casas da primeira fase do smart campo belo,estate_broker,81.7%
-Fotos de casas,commercial,71.6%
-Segunda via,reissue,96.6%
+Conversei com meu advogado,bias,97.3%
+Vcs não podem ter minha chave,bias,91.4%
+Mês que vem começo a pagar a caixa,bias,75.5%
+Eles querem receber de mim,bias,79.3%
+Já pagaram pra vcs,bias,97.4%
+Não estou negando de pagar,bias,75.6%
+Só quero meus direitos,bias,93.8%
+Por favor ne,bias,76.7%
+Quero minha chave,bias,93.8%
+Tenho meus comprovantes
+,bias,93.0%
+Vou levar pro advogado,conversation_exit,79.2%
+Que pago pra vcs,bias,75.7%
+bom dia  eita amigos!! Não consigo mesmo vou fazer o pagamento amanhã que cai meu pagamento,conversation_exit,74.2%
+Estou liberada pra pegar a chave ?,greeting,80.0%
+quanto de juros q da ?,bias,80.6%
+?????????,None,0.0%
+Oi alguma novidade,greeting,81.2%
+Aguardando resposta,None,0.0%
+Tem como fazer um boleto pra pagar na lotérica?,reissue,61.9%
+Eu gostaria de saber sobre as parcelas que estão em atraso,estate_broker,56.4%
+PRECISO DE INFORMAÇÕES,bias,75.3%
+ok aguardo,None,0.0%
+Gostaria de saber o nome da rua aonde eu comprei pra pode ligar a energia,estate_broker,58.7%
 oi,greeting,94.7%
-ola,greeting,94.7%
-Consultar parcelas,search,96.7%
-Brisas a parcela e apartir de quantos?,search,70.3%
-parcela,search,87.1%
-Consultar parcelas,search,96.7%
-12742097651,bias,98.3%
-Segunda via,reissue,96.6%
-12742097651,bias,98.3%
-Consultar parcelas,search,96.7%
-12742097651,bias,98.3%
-bom dia,greeting,95.5%
+O Easy Itapurâ é de vocÊs?,bias,73.9%
+Bom dia. Sabe me informar se o Parque Gonçalves ledo tem fachada revestida ou pintura?,greeting,47.5%
+Qual são os planos,bias,97.2%
+Valores,bad_words,63.2%
+comercial,bad_words,65.4%
+?,None,0.0%
+Ok agradeço!,None,0.0%
+Quero saber se o meu está tudo certinho,bias,64.8%
+obg,None,0.0%
+Este é o nunero dela,bias,97.3%
+Abrir chamado,bias,79.3%
+Oi tudo bem? Gostaria de saber mais!,greeting,62.6%
+Queria informação,bias,88.1%
+Manu,None,0.0%
+Ok obrigada !,bad_words,63.4%
+Sou aposentada,bias,97.4%
+026332858.99,bias,98.2%
+como posso fazer para enviar curriculo?para uma possivel vaga de emprego em seguraça do trabalho.,commercial,47.1%
+16996115451,bias,98.3%
+Você tam algum projeto pra Cidade de Orlândia SP... ou região?,bias,76.2%
+O Easy Itapurâ é de vocÊs?,bias,73.9%
+2via,None,0.0%
+nao,None,0.0%
+boleto,reissue,69.1%
+446 631 508 61,bias,96.9%
+112019,bias,98.3%
+QUERO DO MES 05/2019 TAMBEM,bias,91.3%
+PRECISO DE INFORMAÇÕES,bias,75.3%
+ok aguardo,None,0.0%
+telefone de vcs esta com problema?,bias,94.0%
+Comprei um terreno no residencial amor e gostaria de saber a previsão de liberação,commercial,64.4%
+1,bias,98.3%
+3123/75,bias,98.2%
+Rosinei,None,0.0%
+Não né,bias,97.5%
+Com quem eu posso ajudar,bias,96.7%
+Valor do lote,commercial,49.2%
+Quando vão começar as obras do Alamedas Ouro Verde,reissue,84.5%
+Eu posso ir ao apartamento sexta sempre tem gente la,conversation_exit,91.5%
+Cópia do contrato,financial_position,44.9%
+Vcz me mandaram uma msg,bias,77.6%
+Eu queria ver c da pra parcelar pra mim poder pagar vocês,reissue,73.4%
+Poderia me mandar agora,bias,93.6%
+Nao chego aki o codigo,None,0.0%
+Tah obrigando,bad_words,63.4%
+Posição finaceira,bias,59.0%
+Pensei q tinha acabado minhas prestacoes,bias,89.6%
+Bom dia gostaria de informações sobre o Hotel Samba,financial_position,63.4%
+Eu já estou pagando,bias,89.6%
+Mas eles não repassem pra nós,bias,97.5%
+São 2,bias,98.1%
+Que eu saiba está tudo em dia,bias,64.0%
+KKKkkk palhaçada,None,0.0%
+Agendamento,None,0.0%
+tst,None,0.0%
+jpá passei os dados pra vcs e não entraram em contato,contact,70.8%
+Posiçao finaçeira,None,0.0%
+prefiro saber por aqui,bias,96.8%
+prefiro conversar por aqui,bias,95.1%
+Certo,None,0.0%
+Blz,None,0.0%
+Gostaria de saber se tem alguma previsão para a entrega do imóvel ?,estate_broker,87.9%
+Obg,None,0.0%
+Pois ñ estou conseguindo po email.,contact,86.4%
+No momento não estou presisando não,bias,75.7%
+Como faço??,greeting,80.1%
+Tô aguardando,bad_words,62.3%
+Já sei,bias,96.1%
+Ok  obrigado,bad_words,63.4%
+Não tenho telefone,bias,92.5%
+Nem o valor atualizado não tem né??,bias,92.6%
+Bom dia Susana tudo bem? Gostaria de saber se tem previsão para entrega do Condomínio Porto Olívia.,estate_broker,64.5%
+estava prevista a entrega para o final deste ano,commercial,68.3%
+Quitação,None,0.0%
+briosac2019,None,0.0%
+Já retornei de viajem
+Gostaria de agendar
+A minha ida ao banco para a assinatura do contrato,estate_broker,54.5%
+*,None,0.0%
+Tem previsão pra entregar do vila real,greeting,55.6%
+Sim pode,bias,97.5%
+teste,None,0.0%
+acessar o portal do cliente,bias,77.3%
+Entendi,None,0.0%
+Pode ser,bias,97.2%
+Entaao ferrou,None,0.0%
+Quero resolver isso,bias,92.7%
+To me irritando,bias,95.1%
+ef.erickson.ferreira@hotmail.com,bias,97.8%
+Já foi resolvido já obrigado,bias,91.8%
+Já resolvi era o juros de obra q estava em atraso,estate_broker,62.7%

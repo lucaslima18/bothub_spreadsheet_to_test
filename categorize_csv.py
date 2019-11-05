@@ -33,7 +33,7 @@ def categorize():
             acuracia = resposta[1]
             intent = resposta[0]
 
-            if (acuracia > 0):
+            if (acuracia >= 0):
                     print(f"{count_tt}- {texto},{intent},{acuracia:.1f}%")
                     categorized_messages.write(f"{texto},{intent},{acuracia:.1f}%\n")
                     count_ct += 1
