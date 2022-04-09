@@ -11,8 +11,3 @@ LANGUAGE = 'pt_br'
 AUTH_TOKEN = arguments.auth_token
 
 
-'''
-REPOSITORY_UUID = '1f86ecdf-4659-4a98-84bf-78d0ef9d3512'
-LANGUAGE = 'pt_br'
-AUTH_TOKEN = 'Token 5ef90351e1b8bb19761e98e03773f0d20f3f94de'
-'''
